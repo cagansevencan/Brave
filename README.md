@@ -11,7 +11,7 @@ Group Project
 
 ## Overview
 ### Description
-Brave is an iOS mobile application which publishes crowd-sourced reviews about gyms as well as online reservation service for gyms for limited days.
+Brave is an IOS mobile application which publishes crowd-sourced reviews about gyms as well as online reservation service for gyms for limited days.
 
 ### App Evaluation
 - **Category:**
